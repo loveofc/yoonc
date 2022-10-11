@@ -18,5 +18,14 @@
     <ClCompile Include="HelloComment.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="printTwo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="02_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="printOne.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
